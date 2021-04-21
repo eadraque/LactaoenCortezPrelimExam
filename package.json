@@ -1,0 +1,25 @@
+{
+  "name": "lactaoencortez",
+  "version": "1.0.0",
+  "description": "lactaoencortez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eadraque/LactaoenCortezPrelimExam.git"
+  },
+  "keywords": [
+    "LC"
+  ],
+  "author": "LactaoenCortez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eadraque/LactaoenCortezPrelimExam/issues"
+  },
+  "homepage": "https://github.com/eadraque/LactaoenCortezPrelimExam#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
